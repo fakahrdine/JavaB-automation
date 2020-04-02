@@ -1,4 +1,4 @@
-package com.syntax.class15;
+ package com.syntax.class15;
 
 public class TaskMethodreurn {
 	char youMark;
